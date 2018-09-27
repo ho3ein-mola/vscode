@@ -1,10 +1,14 @@
 akamud.vscode-theme-onedark
 bmewburn.vscode-intelephense-client
+donjayamanne.githistory
 dracula-theme.theme-dracula
 dustinsanders.an-old-hope-theme-vscode
 felixfbecker.php-debug
+felixfbecker.php-intellisense
+formulahendry.auto-close-tag
 fterrag.vscode-php-cs-fixer
 fthiagogv.theme-material-ocean-next-plus
+HvyIndustries.crane
 ikappas.phpcs
 junstyle.php-cs-fixer
 MehediDracula.php-namespace-resolver
